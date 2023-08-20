@@ -1,3 +1,7 @@
+# Repo updated to https://github.com/jayanta525/rk3308-rock-pi-s
+# this repo will soon be deleted.
+
+
 ![OpenWrt logo](include/logo.png)
 
 OpenWrt Project is a Linux operating system targeting embedded devices. Instead
